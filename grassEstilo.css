@@ -1,0 +1,19 @@
+body {
+    background-color: snow;
+}
+
+h1 {
+    color: black;
+}
+
+#r {
+    color: rgb(255, 0, 0);
+}
+
+#g {
+    color: rgb(0, 255, 0);
+}
+#b {
+    color: rgb(0, 0, 255);
+    
+}
